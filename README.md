@@ -10,4 +10,4 @@ This is a multiclass classification type of problem in which a subset of classif
 The most optimal model is the `XGBoost` classifier with default parameters with $F_1=0.9267$.
 
 ## Technologies
-Technologies used in this project are: scikit-learn, XGBoost, Jupyter Notebook.# Loan-Prediction
+Technologies used in this project are: scikit-learn, XGBoost, Jupyter Notebook.
